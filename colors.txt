@@ -1,0 +1,1 @@
+White, Black, Green, Red, Blue, W, G, B, U, R
